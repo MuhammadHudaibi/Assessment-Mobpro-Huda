@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Assessment</string>
+    <string name="app_name">Assessment 1</string>
+    <string name="pendaftaran">Pendaftaran Ojek Online</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="umur">Umur(tahun)</string>
+    <string name="ktp">Foto KTP</string>
+    <string name="take_photo">Ambil Gambar</string>
+    <string name="sim">Foto SIM</string>
+    <string name="stnk">Foto STNK</string>
+    <string name="ktpAnda">Foto Anda Sambil Memegang KTP</string>
+    <string name="noHp">No. Hp</string>
+    <string name="alsan">"Alasan ingin menjadi ojek online "</string>
+    <string name="kota">Daerah Anda Bekerja</string>
+    <string name="Bandung">Bandung</string>
+    <string name="Jakarta">Jakarta</string>
+    <string name="daerahKerja">Daerah anda berkerja</string>
 </resources>
